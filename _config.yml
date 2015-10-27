@@ -1,0 +1,23 @@
+name: Kenneth LeRoy Campbell
+favicon: null
+layout_spectrum: 0.5219796483870596
+typography_spectrum: 0.937551615992561
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.26335748471319675
+  lightness: 0.46550624491646886
+  saturation: 0.9027467570267618
+  rhythmicContrast: 0.1109683767426759
+purpose: []
