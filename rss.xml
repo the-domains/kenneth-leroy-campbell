@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Kenneth LeRoy Campbell]]></title>
         <description><![CDATA[Kenneth LeRoy Campbell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kenneth-leroy-campbell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 19:42:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 19:16:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kenneth-leroy-campbell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/kenneth-leroy-campbell/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">0a3c4e72-55f9-4336-8055-c3148d3d2ff9</guid>
             <pubDate>Wed, 04 Nov 2015 19:41:38 GMT</pubDate>
         </item>
