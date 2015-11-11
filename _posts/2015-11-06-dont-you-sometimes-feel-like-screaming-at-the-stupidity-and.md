@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-11T19:53:49.754Z'
-dateModified: '2015-11-11T19:53:44.042Z'
+datePublished: '2015-11-11T20:56:36.280Z'
+dateModified: '2015-11-11T20:56:30.530Z'
 author: []
 related: []
 app_links: []
@@ -32,4 +32,4 @@ Have you ever wanted to scream about all the stupidity you see about you?  Somet
 [SHORT AUTOBIOGRAPHY][1]
 
 [0]: http://www.imdb.com/title/tt0119116/
-[1]: about/short
+[1]: short
