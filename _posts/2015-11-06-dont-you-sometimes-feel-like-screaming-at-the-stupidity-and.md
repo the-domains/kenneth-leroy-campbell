@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://app.thegrid.io/sites/f839392e-5ad3-4ec1-8885-d1eeb6b6928c'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-11T00:33:50.464Z'
-dateModified: '2015-11-11T00:32:52.841Z'
+datePublished: '2015-11-11T00:41:35.940Z'
+dateModified: '2015-11-11T00:41:30.457Z'
 author: []
 related: []
 app_links: []
@@ -21,12 +20,14 @@ publisher:
   domain: app.thegrid.io
   url: 'https://app.thegrid.io'
   favicon: 'https://app.thegrid.io/images/grid-logo-16.png'
+url: about/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d04c614-9f1d-4529-a857-42d27c3c2e1f.jpg)
+
 Have you ever wanted to scream about all the stupidity you see about you?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7da4413-332f-48cd-a44c-c15bb59e296f.jpg)
 
 Sometimes one wants to crawl back into the cave and say "Good try, humanity. Better luck next time." For every step forward there is always a little jog back.  I suppose all we can do is to contribute the little we can to progress and hope we all survive to face a better future.
 
