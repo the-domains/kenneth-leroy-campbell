@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ \_Links to sites: \_ Books \_/ \_Prose \_/ \_Poetry \_/ \_Videography \_/ \_Ephemera"
-datePublished: '2016-04-13T00:23:53.143Z'
-dateModified: '2016-04-13T00:22:31.862Z'
+datePublished: '2016-04-13T00:29:37.165Z'
+dateModified: '2016-04-13T00:29:12.033Z'
 author: []
 related: []
 app_links: []
@@ -25,7 +25,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## "An interesting waste of time"
+## 
 
 Links to sites:   Books  /  Prose  /  Poetry  /  Videography  /  Ephemera
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/326537c1-9605-4a7d-8fd2-acc85977da30.jpg)
+
+## "An interesting waste of time"
