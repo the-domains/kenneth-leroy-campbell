@@ -6,12 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ \_Links to sites: \_ Books \_/ \_Prose \_/ \_Poetry \_/ \_Videography \_/ \_Ephemera"
-datePublished: '2016-04-13T00:17:12.567Z'
-dateModified: '2016-04-13T00:16:49.129Z'
+datePublished: '2016-04-13T00:23:53.143Z'
+dateModified: '2016-04-13T00:22:31.862Z'
 author: []
 related: []
 app_links: []
-title: '"An interesting waste of time"'
+title: links
 sourcePath: _posts/2015-10-21-an-interesting-waste-of-time.md
 published: true
 authors: []
@@ -25,10 +25,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# "An interesting waste of time"
+## "An interesting waste of time"
 
 Links to sites:   Books  /  Prose  /  Poetry  /  Videography  /  Ephemera
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/326537c1-9605-4a7d-8fd2-acc85977da30.jpg)
-
-"Rising from the slag heap of mediocrity!"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55dbbe2d-bb8f-4b00-b097-0d5d51a2e600.jpg)
