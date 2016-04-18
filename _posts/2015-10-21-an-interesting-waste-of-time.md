@@ -5,13 +5,13 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Blog \_/ \_Prose \_/ \_Poetry \_/ \_Videography \_/ \_Ephemera"
-datePublished: '2016-04-13T00:50:33.801Z'
-dateModified: '2016-04-13T00:50:04.775Z'
+description: Blog /  Prose / Poetry / Videography / Ephemera
+datePublished: '2016-04-18T20:57:16.115Z'
+dateModified: '2016-04-18T20:57:13.499Z'
 author: []
 related: []
 app_links: []
-title: links
+title: ''
 sourcePath: _posts/2015-10-21-an-interesting-waste-of-time.md
 published: true
 authors: []
@@ -25,11 +25,12 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-**[Blog][0] / [Prose][1] /  [Poetry][2] /  [Videography][3] /  [Ephemera][4]**
+**[Blog][0] / [Prose][1] / [Poetry][2] / [Videography][3] / [Ephemera][4]**
+
+RISING ABOVE THE SLAG HEAPS OF MEDIOCRITY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/326537c1-9605-4a7d-8fd2-acc85977da30.jpg)
 
 ## "An interesting waste of time"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2754874e-f578-48da-bb03-1e228e562049.jpg)
 
 [0]: blog
 [1]: prose
