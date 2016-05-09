@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: The Model Job
-datePublished: '2016-05-04T19:31:00.508Z'
-dateModified: '2016-05-04T18:50:20.072Z'
+datePublished: '2016-05-09T18:31:53.887Z'
+dateModified: '2016-05-09T18:31:43.241Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-the-model-job.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: true
 url: the-model-job/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 The Model Job
