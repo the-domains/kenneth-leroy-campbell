@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Blog /  Prose / Poetry / Videography / Ephemera
-datePublished: '2016-05-04T18:39:11.517Z'
-dateModified: '2016-05-04T18:39:07.295Z'
+datePublished: '2016-05-09T18:38:08.237Z'
+dateModified: '2016-05-09T18:37:56.224Z'
 author: []
 related: []
 app_links: []
@@ -25,13 +25,11 @@ _type: MediaObject
 
 ---
 **[Blog][0] / [Prose][1] / [Poetry][2] / [Videography][3] / [Ephemera][4]**
-
-RISING ABOVE THE SLAG HEAPS OF MEDIOCRITY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/326537c1-9605-4a7d-8fd2-acc85977da30.jpg)
 
-> # "An interesting waste of time"
+RISING ABOVE THE SLAG HEAPS OF MEDIOCRITY
 
-
+"An interesting waste of time"
 
 [0]: blog
 [1]: prose
