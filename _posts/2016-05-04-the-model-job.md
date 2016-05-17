@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-17T23:21:51.497Z'
-dateModified: '2016-05-11T19:53:59.912Z'
+description: The Model Job
+datePublished: '2016-05-17T23:28:05.846Z'
+dateModified: '2016-05-17T23:21:58.036Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-the-model-job.md
