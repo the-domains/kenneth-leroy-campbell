@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Blog /  Prose / Poetry / Videography / Ephemera
-datePublished: '2016-05-09T18:38:08.237Z'
-dateModified: '2016-05-09T18:37:56.224Z'
+datePublished: '2016-05-17T23:31:52.229Z'
+dateModified: '2016-05-17T23:31:09.565Z'
 author: []
 related: []
 app_links: []
