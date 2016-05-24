@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Blog /  Prose / Poetry / Videography / Ephemera
-datePublished: '2016-05-17T23:31:52.229Z'
-dateModified: '2016-05-17T23:31:09.565Z'
+datePublished: '2016-05-24T23:12:34.527Z'
+dateModified: '2016-05-24T23:12:34.287Z'
 author: []
 related: []
 app_links: []
