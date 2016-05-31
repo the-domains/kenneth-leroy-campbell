@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Model Job
-datePublished: '2016-05-24T23:12:06.462Z'
-dateModified: '2016-05-17T23:53:04.166Z'
+datePublished: '2016-05-31T23:43:56.769Z'
+dateModified: '2016-05-31T23:43:46.327Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-the-model-job.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: true
 url: the-model-job/index.html
 _type: WebPage
