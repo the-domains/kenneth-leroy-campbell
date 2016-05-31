@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: /  Prose / Poetry / Videography / Ephemera / Blog
-datePublished: '2016-05-31T23:46:15.819Z'
-dateModified: '2016-05-31T23:46:00.017Z'
+description: ' Prose / Poetry / Video/ Audio / Ephemera / Blog'
+datePublished: '2016-05-31T23:55:43.614Z'
+dateModified: '2016-05-31T23:55:26.121Z'
 author: []
 related: []
 app_links: []
@@ -24,7 +24,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-**/ [Prose][0] / [Poetry][1] / [Videography][2] / [Ephemera][3] / **[**Blog**][4]
+**[Prose][0] / [Poetry][1] / [Video][2]/ **Audio**/ [Ephemera][3] / **[**Blog**][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/326537c1-9605-4a7d-8fd2-acc85977da30.jpg)
 
 RISING ABOVE THE SLAG HEAPS OF MEDIOCRITY
