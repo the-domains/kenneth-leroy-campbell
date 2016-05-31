@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Blog /  Prose / Poetry / Videography / Ephemera
-datePublished: '2016-05-24T23:12:34.527Z'
-dateModified: '2016-05-24T23:12:34.287Z'
+description: /  Prose / Poetry / Videography / Ephemera / Blog
+datePublished: '2016-05-31T23:46:15.819Z'
+dateModified: '2016-05-31T23:46:00.017Z'
 author: []
 related: []
 app_links: []
@@ -24,15 +24,15 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-**[Blog][0] / [Prose][1] / [Poetry][2] / [Videography][3] / [Ephemera][4]**
+**/ [Prose][0] / [Poetry][1] / [Videography][2] / [Ephemera][3] / **[**Blog**][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/326537c1-9605-4a7d-8fd2-acc85977da30.jpg)
 
 RISING ABOVE THE SLAG HEAPS OF MEDIOCRITY
 
 "An interesting waste of time"
 
-[0]: blog
-[1]: prose
-[2]: poetry
-[3]: videography
-[4]: null
+[0]: prose
+[1]: poetry
+[2]: videography
+[3]: null
+[4]: https://app.thegrid.io/posts/5fae2abb-1882-4d2d-9040-fc4edc108b6e/blog
