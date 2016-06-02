@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Model Job
-datePublished: '2016-05-31T23:58:18.574Z'
-dateModified: '2016-05-31T23:44:04.606Z'
+datePublished: '2016-06-02T23:56:10.923Z'
+dateModified: '2016-05-31T23:58:26.236Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-the-model-job.md
