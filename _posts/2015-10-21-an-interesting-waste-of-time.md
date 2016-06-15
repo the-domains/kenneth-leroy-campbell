@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: ' Prose / Poetry / Video/ Audio / Ephemera / Blog'
-datePublished: '2016-05-31T23:55:43.614Z'
-dateModified: '2016-05-31T23:55:26.121Z'
+description: Prose / Poetry / Video/ Audio / Ephemera / Blog
+datePublished: '2016-06-15T00:35:39.742Z'
+dateModified: '2016-05-31T23:57:19.430Z'
 author: []
 related: []
 app_links: []
@@ -17,7 +17,8 @@ publisher:
   name: 500px
   domain: 500px.com
   url: 'https://500px.com'
-  favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
+  favicon: >-
+    https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico
 starred: false
 url: an-interesting-waste-of-time/index.html
 _context: 'http://schema.org'
