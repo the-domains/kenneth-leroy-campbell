@@ -4,24 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: |-
-  The
-  Model Job
-datePublished: '2016-08-01T19:22:37.334Z'
-dateModified: '2016-08-01T19:22:34.181Z'
+description: The Model Job
+datePublished: '2016-08-01T20:34:19.516Z'
+dateModified: '2016-08-01T19:26:22.309Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-01-the-model-job.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-08-01-the-model-job.md
+starred: true
 url: the-model-job/index.html
 _type: Blurb
 
 ---
-The
-Model Job
+The Model Job
 
 by
 
