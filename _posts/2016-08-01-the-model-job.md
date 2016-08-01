@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Model Job
-datePublished: '2016-08-01T20:34:19.516Z'
-dateModified: '2016-08-01T19:26:22.309Z'
+datePublished: '2016-08-01T20:57:03.824Z'
+dateModified: '2016-08-01T20:56:28.824Z'
 title: ''
 author: []
 via: {}
