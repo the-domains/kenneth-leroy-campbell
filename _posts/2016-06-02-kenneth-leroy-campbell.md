@@ -1,20 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-06T19:36:58.497Z'
-dateModified: '2016-07-06T19:36:52.690Z'
-title: ''
-author: []
+datePublished: '2016-08-23T23:19:44.321Z'
 sourcePath: _posts/2016-06-02-kenneth-leroy-campbell.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-23T23:19:43.774Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: kenneth-leroy-campbell/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a020b428-4a4a-4bde-a4bd-0bda4357a830.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/87a8ba42d53d79e10435a3ea02197d08edfae32a.jpg)
