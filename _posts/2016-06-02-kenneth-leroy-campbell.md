@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-23T23:19:44.321Z'
+datePublished: '2016-08-31T17:58:55.397Z'
 sourcePath: _posts/2016-06-02-kenneth-leroy-campbell.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-23T23:19:43.774Z'
+via: {}
+dateModified: '2016-08-31T17:58:54.823Z'
 title: ''
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: kenneth-leroy-campbell/index.html
 _type: Article
